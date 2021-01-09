@@ -1,0 +1,9 @@
+
+**Makefile**
+**/html/**
+**build**
+**/nbproject/**
+**/nbbuild/**
+**/dist/**
+**/nbdist/**
+**/report/**
